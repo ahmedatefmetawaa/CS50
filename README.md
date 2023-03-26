@@ -1,2 +1,2 @@
-# CS50
-CS50 PROBLEMS
+# Edx cs50 course
+## projects / my submit

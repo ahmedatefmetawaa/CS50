@@ -1,0 +1,8 @@
+pick a pyramid height from user
+lock at the input within range or not
+if the input between the range
+then move to next command
+else prompt user again
+loop for row and height
+then nested loop for spaces
+then nested loop for #
